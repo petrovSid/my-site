@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/* Base */
+body {
+    line-height: 1.7;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: 'Lato', sans-serif;
+    color: #797979;
+    width: 100%;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: 400;
+    width:100%;}
+
+.navbar {background:#f5f5f5;}
+
+  .nav-link{ margin-right: 1em !important;}
+
+  .navbar-collapse{ justify-content: flex-end;}
+
+  .navbar-brad img {
+    width: 150px;
+    margin-left: 2em;}
+
+
+h1, h2, h3, h4, h5,
+  .h1, .h2, .h3, .h4, .h5 {
+    color: #000;}
+
+.site-footer {
+    padding: 1em 0;
+    background-color: #e6e6e6;
+    padding-top: 50px;
+    border-top: 4px solid silver;}
+
+.overlay {background-color: rgba(41, 39, 34, 0.50);
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left:0;
+    top: 0;}
+
+.bg-black {background-color: #222222;}
+
+.fix {overflow: hidden;}
+
+.home{
+    background-image: url("../img/Privilege.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    padding-top: 300px;
+    padding-bottom: 250px;
+    width:100%;}
+
+.home h1{
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    font-size: calc(1em + 5vw);
+    margin-top: 0.7em;
+    text-align: center;}
+
+.home p{
+    font-size: 20px;
+    color: white;
+    text-align: center;}
+
+.row {text-align: justify;}
+
+p{color: #000;}
+
+.home hr {
+     border: none; /* Убираем границу для браузера Firefox */
+     color: #cc0000; /* Цвет линии для остальных браузеров */
+     background-color: #cc0000; /* Цвет линии для браузера Firefox и Opera */
+     height: 4px; /* Толщина линии */
+     width: 350px;}
+
+hr {
+    border: none; /* Убираем границу для браузера Firefox */
+    color: #cc0000; /* Цвет линии для остальных браузеров */
+    background-color: #cc0000; /* Цвет линии для браузера Firefox и Opera */
+    height: 1px; /* Толщина линии */
+    width: 150px;}
+
+.page-layout {
+    height: auto;
+    padding: 65px 0;
+    width: 100%;}
+
+.we1{
+   color: #000;
+   text-align: center;
+   margin-bottom: 1em;}
+
+.page{
+    background-image: url("../img/tmb.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    width:100%;}
+
+.page h2{
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 1em;}
+
+.page p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 2em;}
+
+.round{margin-bottom:30px;}
+
+.otstyp{
+    margin-top:50px;
+    color: #1a1a1a;}
+
+.otstyp p {color: #333333;}
+
+.text1 p {
+    color: #000;
+    text-align: center;}
+
+.bg-black {
+    background-color: #000000;}
+
+.bg-black p{color: #ffffff;}
+
+.site-footer .footer-heading {font-size: 20px;}
+
+.block {
+    display: block;
+    margin: 0 auto;}
